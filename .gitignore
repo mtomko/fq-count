@@ -1,0 +1,18 @@
+#------------------------------------------------------------------------------
+# Standard ignores for all of our Scala projects.
+#------------------------------------------------------------------------------
+*~
+*.class
+*.log
+*.iml
+*.sc
+.project
+\#*
+.\#*
+.DS_Store
+target/
+/.idea/
+/.idea_modules/
+/scaladoc/
+.metals
+.bloop
