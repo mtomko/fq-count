@@ -1,12 +1,12 @@
 ThisBuild / scalaVersion := "2.13.3"
 
 lazy val versions = new {
-  val cats = "2.1.1"
-  val catsEffect = "2.1.4"
+  val cats = "2.2.0"
+  val catsEffect = "2.2.0"
   val console4Cats = "0.8.1"
-  val decline = "1.2.0"
-  val fs2 = "2.4.2"
-  val munit = "0.7.10"
+  val decline = "1.3.0"
+  val fs2 = "2.4.4"
+  val munit = "0.7.14"
 }
 
 lazy val `fq-count` = project
